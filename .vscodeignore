@@ -1,0 +1,15 @@
+# Dependencias
+node_modules/
+
+# Archivos de compilación / salida
+out/
+dist/
+
+# Archivos de pruebas y entornos temporales
+.vscode-test/
+.vscode-test.*
+*.map
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
